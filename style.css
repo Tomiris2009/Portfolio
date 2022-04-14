@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+header a{
+    text-decoration: none;
+    font-size: 23px;
+    font-style: normal;
+    color: SteelBlue;
+    
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 22px;
+    font-style: normal;
+    color: SteelBlue;
+    margin-right: 15px;
+    
+}
+h1{
+    text-align:center;
+    font-size: 55px;
+}
+ul{
+    font-size: 20px;
+    font-family: sans-serif;
+  
+}
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    font-size: 30px;
+    text-decoration: none;
+    color:BurlyWood;
+}
+ul{
+    font-size: 23px;
+}
+img{
+    width: 500px;
+   display:block;
+   margin-bottom: 20px;
+}
+body {
+    font-family: sans-serif;
+}
+header a {
+    font-size: 25px;
+    color: #DC143C;
+    text-decoration: none;
+}
+main a{
+    font-size: 17px;
+    color: black;
+    text-decoration: none;
+}
+footer a{
+    margin-top: 25px;
+}
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    font-size: 20px;
+    color: Violet
+}
+ol{
+    font-size: 20px;
+}
+main a{
+    color: violet;
+}
